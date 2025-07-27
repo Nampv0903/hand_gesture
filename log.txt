@@ -1,0 +1,17 @@
+Accuracy: 0.9836
+Recall: 0.9834
+F1-score: 0.9835
+Precision: 0.9839
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    cu_chi_1       1.00      1.00      1.00       210
+    cu_chi_2       1.00      0.97      0.98       204
+    cu_chi_3       0.98      0.97      0.97       205
+    cu_chi_4       0.96      1.00      0.98       208
+    cu_chi_5       0.99      0.98      0.99       207
+
+    accuracy                           0.98      1034
+   macro avg       0.98      0.98      0.98      1034
+weighted avg       0.98      0.98      0.98      1034

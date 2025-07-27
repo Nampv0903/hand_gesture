@@ -1,0 +1,8 @@
+# Python 3.10
+opencv-python
+mediapipe
+numpy
+scikit-learn
+matplotlib
+tensorflow
+joblib
